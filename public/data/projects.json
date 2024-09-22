@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Singcapital",
+    "image": "projects/easymailer.png",
+    "liveLink": "https://singcapital.com.sg",
+    "about": "The SingCapital app is a landing page with forms to collect submissions, a CMS integrated for blogs, and a career page for job applications. I developed it from scratch during my internship, working closely with the client throughout the process.",
+    "link": null,
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "Strapi Cms",
+      "Html",
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Music Streaming Application",
+    "image": "projects/links-park.png",
+    "link": "https://github.com/14imran/Music-App",
+    "liveLink": "https://music-app-eta-five.vercel.app/",
+    "about": "The Musica Application is a sleek, high-performance music streaming app built using the latest web technologies: React.js for the frontend framework, Vite for blazing-fast build tool and development environment, and Tailwind CSS for modern, utility-first styling.",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "framer-motion",
+      "prisma",
+      "drizzle",
+      "mantine",
+      "radix UI",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Moviex",
+    "image": "projects/cd.png",
+    "link": "https://github.com/14imran/Moviex",
+    "liveLink": "https://moviex-gilt-chi.vercel.app/",
+    "about": "Moviex - It is froentend application which makes user to select movie.",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "framer-motion",
+      "prisma",
+      "mantine",
+      "Scss"
+    ]
+  },
+  {
+    "name": "Christmas-Wishes",
+    "image": "projects/an.png",
+    "link": "https://github.com/14imran/Christmas-Wishes",
+    "liveLink": "https://christmas-wishesx.vercel.app/",
+    "about": "Christmas Wishes - It helps user to create a christmas wishing card of their like and share it to their friends and family ",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "shadcn/ui",
+      "prisma",
+      "mongodb"
+    ]
+  }
+]
